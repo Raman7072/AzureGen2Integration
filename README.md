@@ -52,8 +52,8 @@ The solution was implemented using a combination of Azure Data Factory and Datab
 
 ## Contact
 For questions or collaboration opportunities, feel free to reach out:
-- **Email**: [kakarot7072@gmail.com](mailto:kakarot7072@gmail.com)
-- **GitHub**: [kakarot7072](https://github.com/kakarot7072)
+- **Email**: [Raman](mailto:kakarot7072@gmail.com)
+- **GitHub**: [Raman7072](https://github.com/raman7072)
 
 ---
 
